@@ -1,0 +1,1 @@
+Bronty is a simple perl module for expanding templates in ascii art with text, so that you can populate speech bubbles for ascii art characters or whatever else you can come up with.
